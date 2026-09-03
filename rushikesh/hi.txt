@@ -1,2 +1,3 @@
 hi my name is rushi
 i did it succfully
+hey i am doing a fetch practical
